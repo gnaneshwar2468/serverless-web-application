@@ -1,4 +1,4 @@
 # serverless-web-application
 major project
- #SERVERLESS WEB APPLICATION
+ #SERVERLESS WEB APPLICATION USING AWS
  
